@@ -74,13 +74,6 @@ Visit `http://localhost:5000` or `https://localhost:5000` in your browser.
 
 ---
 
-## ✨ Demo Screenshots
-
-![Landing Page](./static/images/demo_landing.png)
-![Diagnosis Dashboard](./static/images/demo_dashboard.png)
-
----
-
 ## 🙋‍♂️ Contributing
 1. Fork the repo
 2. Open a feature branch for your changes
