@@ -87,5 +87,5 @@ Visit `http://localhost:5000` or `https://localhost:5000` in your browser.
 ---
 
 ## 👤 Author Contact
-Built by Gauta (and contributors). For questions, file an issue or reach out at yourname@email.com
+Built by Gautam (and contributors). For questions, file an issue or reach out at yourname@email.com
 
